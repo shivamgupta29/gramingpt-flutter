@@ -39,7 +39,7 @@ path: To find the correct local path for the database file.
 Networking:
 http: For making API calls to the backend.
 
-Backend (by @sarthwa8)
+Backend (by Sarthak Sukhral)
 
 Framework: Python with FastAPI
 
@@ -51,7 +51,7 @@ Deployment: Dockerized and hosted on Render.
 
 How to Run
 Clone the repository:
-git clone https://github.com/your-username/gramingpt-flutter-app.git
+git clone https://github.com/shivamgupta29/gramingpt-flutter-app.git
 
 Navigate to the project directory:
 cd gramingpt-flutter-app
